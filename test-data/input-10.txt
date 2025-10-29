@@ -1,0 +1,4 @@
+# TC11 – Előzőleg a primary lőtt, a secondary üres majd újra a primary
+GT4500,2,0.0,0,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

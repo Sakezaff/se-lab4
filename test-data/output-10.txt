@@ -1,0 +1,3 @@
+SUCCESS      # hajó inicializálás
+SUCCESS      # 1. lövés: PRIMARY (wasPrimaryFiredLast = true lesz)
+SUCCESS      # 2. lövés: SECONDARY üres → belép a jelzett ágba → ismét PRIMARY
