@@ -1,0 +1,4 @@
+# TC2 – két egymás utáni lövés, váltás a tárolók között
+GT4500,10,0.0,10,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
